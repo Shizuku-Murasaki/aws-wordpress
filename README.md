@@ -1,4 +1,4 @@
-# AWS上にマルチAZでWordPressサイトを構築
+# AWS上にWordPressサイトを構築
 
 ## [WordPress](https://www.awsexample.com)
 
